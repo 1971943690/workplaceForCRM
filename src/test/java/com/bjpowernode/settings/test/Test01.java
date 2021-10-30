@@ -8,6 +8,7 @@ public class Test01 {
         String str = "wh385024WH";
         String pwd = MD5Util.getMD5(str);
         System.out.println(pwd);
+        System.out.println(pwd);
 
     }
 }
