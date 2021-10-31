@@ -8,8 +8,6 @@ public class Test01 {
         String str = "wh385024WH";
         String pwd = MD5Util.getMD5(str);
         System.out.println(pwd);
-        System.out.println(111);
-        System.out.println(222);
-        System.out.println(333);
+        System.out.println("gitee-commit");
     }
 }
